@@ -1,5 +1,6 @@
-# Calculadora criada.
-
+# Calculadora em python.
+#
+#
 print('CALCULADORA')
 print('+ Adição')
 print('- Subtração')
